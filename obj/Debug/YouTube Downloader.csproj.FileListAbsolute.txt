@@ -1,0 +1,10 @@
+C:\Users\natan\Estudos\C#\YouTube Downloader\bin\Debug\YouTube Downloader.exe.config
+C:\Users\natan\Estudos\C#\YouTube Downloader\bin\Debug\YouTube Downloader.exe
+C:\Users\natan\Estudos\C#\YouTube Downloader\bin\Debug\YouTube Downloader.pdb
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube Downloader.csprojAssemblyReference.cache
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube_Downloader.Form1.resources
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube_Downloader.Properties.Resources.resources
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube Downloader.csproj.GenerateResource.cache
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube Downloader.exe
+C:\Users\natan\Estudos\C#\YouTube Downloader\obj\Debug\YouTube Downloader.pdb
